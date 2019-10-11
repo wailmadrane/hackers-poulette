@@ -28,6 +28,9 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<!-- main css -->
 	<link rel="stylesheet" href="assets/css/style.css">
+	<!-- favicon -->
+	<link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
 </head>
 <body class="p-3">
 	<svg id="definition" version="1.1" xmlns="http://www.w3.org/2000/svg">
